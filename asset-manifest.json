@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Matrix_Game/static/css/main.807c815a.css",
+    "main.js": "/Matrix_Game/static/js/main.2b7e44f6.js",
+    "index.html": "/Matrix_Game/index.html",
+    "main.807c815a.css.map": "/Matrix_Game/static/css/main.807c815a.css.map",
+    "main.2b7e44f6.js.map": "/Matrix_Game/static/js/main.2b7e44f6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.807c815a.css",
+    "static/js/main.2b7e44f6.js"
+  ]
+}
