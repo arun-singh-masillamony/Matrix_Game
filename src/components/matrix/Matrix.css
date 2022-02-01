@@ -1,0 +1,19 @@
+.matrix-container{
+    display: flex;
+    flex-wrap: wrap;
+    width: 50%;
+    height: fit-content;
+    padding: 10px;
+}
+.matrix-box-red{
+    background-color: red;
+    height: 100px;
+    width: 100px;
+    flex: 1 0 21%;
+}
+.matrix-box-blue{
+    background-color: blue;
+    height: 100px;
+    width: 100px;
+    flex: 1 0 21%;
+}
