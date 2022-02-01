@@ -1,13 +1,16 @@
 {
   "files": {
-    "main.css": "/Matrix_Game/static/css/main.807c815a.css",
-    "main.js": "/Matrix_Game/static/js/main.2b7e44f6.js",
+    "main.css": "/Matrix_Game/static/css/main.073c9b0a.css",
+    "main.js": "/Matrix_Game/static/js/main.f4f9732a.js",
+    "static/js/787.07bb98ba.chunk.js": "/Matrix_Game/static/js/787.07bb98ba.chunk.js",
+    "static/media/logo.svg": "/Matrix_Game/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/Matrix_Game/index.html",
-    "main.807c815a.css.map": "/Matrix_Game/static/css/main.807c815a.css.map",
-    "main.2b7e44f6.js.map": "/Matrix_Game/static/js/main.2b7e44f6.js.map"
+    "main.073c9b0a.css.map": "/Matrix_Game/static/css/main.073c9b0a.css.map",
+    "main.f4f9732a.js.map": "/Matrix_Game/static/js/main.f4f9732a.js.map",
+    "787.07bb98ba.chunk.js.map": "/Matrix_Game/static/js/787.07bb98ba.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.807c815a.css",
-    "static/js/main.2b7e44f6.js"
+    "static/css/main.073c9b0a.css",
+    "static/js/main.f4f9732a.js"
   ]
 }
